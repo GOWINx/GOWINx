@@ -2,7 +2,8 @@
 <h3 align="center">Growing one commit at a time</h3>
 
 <img align="right" alt="coding gif" width="400"
-src="https://www.aibrews.in/content/images/2026/01/Vibe_coding.gif" />
+src="<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3ceaa458-a7bb-4102-baa2-5325bdc15f05" />
+
 
 
 <p align="left">
