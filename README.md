@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm GOWINx</h1>
 <h3 align="center">Growing one commit at a time</h3>
 
-<img align="right" alt="coding gif" width="400" 
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyvETp3YJDi6QC-Ouo_CgPBLWhcmdWd7TsCg&s" />
+<img align="right" alt="coding gif" width="400"
+src="https://www.aibrews.in/content/images/2026/01/Vibe_coding.gif" />
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gowinx&label=Profile%20views&color=0e75b6&style=flat" alt="gowinx" />
