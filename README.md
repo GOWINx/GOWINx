@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm GOWINx</h1>
 <h3 align="center">Growing one commit at a time</h3>
 
+
+
 <img align="right" alt="coding gif" width="400"
-src="<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3ceaa458-a7bb-4102-baa2-5325bdc15f05" />
-
-
+src="https://www.aibrews.in/content/images/2026/01/Vibe_coding.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gowinx&label=Profile%20views&color=0e75b6&style=flat" alt="gowinx" />
