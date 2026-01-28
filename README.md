@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GOWINx</h1>
 <h3 align="center">Growing one commit at a time</h3>
 
-<img align="right" alt="coding" width="400" 
+<img align="right" alt="coding gif" width="400" 
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyvETp3YJDi6QC-Ouo_CgPBLWhcmdWd7TsCg&s" />
 
 <p align="left">
