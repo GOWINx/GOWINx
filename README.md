@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GOWINx</h1>
 <h3 align="center">Growing one commit at a time 🚀</h3>
 
-<img align="right" alt="Coding GIF" width="400" src="https://github.com/Janadeepa/Janadeepa" />
+<img align="right" alt="Coding GIF" width="300" src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gowinx&label=Profile%20views&color=0e75b6&style=flat" alt="gowinx" />
