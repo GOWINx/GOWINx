@@ -1,62 +1,59 @@
-<h1 align="center">Hi 👋, I'm GOWINx</h1>
-<h3 align="center">Growing one commit at a time</h3>
+<h1 align="center">Hi 👋, I'm GOWIN</h1>
+<h3 align="center">🚀 Growing one commit at a time</h3>
 
-
-
-<img align="right" alt="coding gif" width="400"
-src="https://github.com/Janadeepa/Janadeepa" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gowinx&label=Profile%20views&color=0e75b6&style=flat" alt="gowinx" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
 
-### 👨‍🎓 About Me
-- 🌱 I’m currently learning **Python Programming**
-- 👨‍💻 One of my projects: [https://ceogowin.netlify.app/](https://ceogowin.netlify.app/)
-- 📫 Reach me at **gowin2061@gmail.com**
-- ⚡ Fun fact: **I am funny 😄**
+## 🙋‍♂️ About Me
+- 🌱 Currently learning **Web Development & DevOps**
+- 💻 Love working with **HTML, CSS, JavaScript, Python**
+- 🔥 Interested in **AI, Emerging Tech & Open Source**
+- 🎯 Goal: Become a **skilled full-stack developer**
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/govinda-pandey" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/gobinda.pandey" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/gobinda__pandey" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@infinitegsports" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-  </a>
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,linux,vscode" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gowinx&show_icons=true&locale=en&layout=compact" alt="gowinx" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowinx&show_icons=true&locale=en" alt="gowinx" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
+
+---
+
+## 🚀 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx4ZThrbGx6a2JpMndpODhnYWZkZm9yZTZlN2Vtb2w4eWF4N3JxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
+</p>
+
+⭐️ *If you like my work, consider following me!*
