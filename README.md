@@ -1,38 +1,58 @@
 <h1 align="center">Hi 👋, I'm GOWINx</h1>
 <h3 align="center">Growing one commit at a time 🚀</h3>
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif" />
+<p align="center">
+  🔗 <strong>Portfolio:</strong> 
+  <a href="https://portfolio-gowin.vercel.app/" target="_blank">
+    https://portfolio-gowin.vercel.app/
+  </a>
+</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gowinx&label=Profile%20views&color=0e75b6&style=flat" alt="gowinx" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gowinx&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍🎓 About Me
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Python Programming**
-- 👨‍💻 One of my projects:  
-  🔗 [https://ceogowin.netlify.app/](https://ceogowin.netlify.app/)
-- 📫 Reach me at: **gowin2061@gmail.com**
-- ⚡ Fun fact: **I am funny 😄**
+<table>
+<tr>
+<td width="65%">
+
+- 🌱 Currently learning **Python Programming & MongoDB**
+- 🎨 Passionate about **Web Development & UI Design**
+- 🚀 Building modern, responsive, user-friendly websites
+- 🔗 Live Project:  
+  👉 https://ceogowin.netlify.app/
+- 📫 Email: **gowin2061@gmail.com**
+- ⚡ Fun fact: **I’m funny and love clean UI 😄**
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif" width="260" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/govinda-pandey" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<p align="center">
+  <a href="https://linkedin.com/in/govinda-pandey">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <a href="https://facebook.com/gobinda.pandey" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  <a href="https://facebook.com/gobinda.pandey">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
   </a>
-  <a href="https://instagram.com/gobinda__pandey" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  <a href="https://instagram.com/gobinda__pandey">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
-  <a href="https://www.youtube.com/@infinitegsports" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+  <a href="https://www.youtube.com/@infinitegsports">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
   </a>
 </p>
 
@@ -40,25 +60,38 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gowinx&show_icons=true&locale=en&layout=compact" alt="gowinx" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gowinx&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowinx&layout=compact&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowinx&show_icons=true&locale=en" alt="gowinx" />
+  💙 Thanks for visiting my profile!
 </p>
